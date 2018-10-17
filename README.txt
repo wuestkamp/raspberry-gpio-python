@@ -1,3 +1,5 @@
+ORIGINAL FILE. CHECK OUT README.md
+
 This package provides a class to control the GPIO on a Raspberry Pi.
 
 Note that this module is unsuitable for real-time or timing critical applications.  This is because you
